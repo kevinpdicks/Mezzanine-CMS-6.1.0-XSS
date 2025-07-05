@@ -46,4 +46,4 @@ PoC was tested using Firefox browser version 136.0 (64-bit):
 ![image](https://github.com/user-attachments/assets/e757d0ee-8338-46f8-adc7-6dda256278bd)
 
 Note: Session hijacking with the XSS vulnerability is not possible, as the sessionid session cookie is not accessible, since it is configured with the HttpOnly security attribute:
-![image](https://github.com/user-attachments/assets/158b4961-7a4a-4fc3-ae53-9930f2b507a4)
+![image](https://github.com/user-attachments/assets/f5dd9e61-5a21-4827-8c85-ab02addb5c52)
