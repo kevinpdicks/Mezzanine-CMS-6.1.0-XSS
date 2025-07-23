@@ -1,7 +1,7 @@
 # Mezzanine-CMS-6.1.0-XSS
 Mezzanine CMS 6.1.0 XSS
 
-##### Description
+###### Description
 A cross-site scripting (XSS) vulnerability in the component /blog/blogpost/add of Mezzanine CMS v6.1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into a blog post.
 ###### CVE:
 CVE-2025-50481
