@@ -11,7 +11,7 @@ Mezzanine CMS 6.1.0
 4.8 Medium
 ###### Vector: 
 CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:N
-##### References
+###### References
 - https://github.com/stephenmcd/mezzanine
 - https://github.com/advisories/GHSA-fpv7-hx6r-9vcx
 - https://nvd.nist.gov/vuln/detail/CVE-2018-16632
