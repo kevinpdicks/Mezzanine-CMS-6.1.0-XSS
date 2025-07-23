@@ -3,7 +3,7 @@ Mezzanine CMS 6.1.0 XSS
 
 ##### Description
 ###### CVE:
-CVE-2025-xxxx
+CVE-2025-50481
 ###### Affected version:
 Mezzanine CMS 6.1.0
 ###### Base Score: 
